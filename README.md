@@ -1,3 +1,3 @@
-# BookingApplication
+# BookingApplication for 1 Movie and 1 plateform
 
-1 Movie and 1 plateform
+
